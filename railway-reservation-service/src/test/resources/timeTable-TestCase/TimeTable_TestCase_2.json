@@ -1,0 +1,731 @@
+[
+  {
+    "id": 1,
+    "train_name": "Kotri Express",
+    "train_no": "559511",
+    "start_from": "Mirpur Khas",
+    "to_destination": "Kotri Junction",
+    "time_arrival": "00:00:14",
+    "time_departure": "00:03:14"
+  },
+  {
+    "id": 2,
+    "train_name": "Narowal Express",
+    "train_no": "550564",
+    "start_from": "Lahore Junction",
+    "to_destination": "Narowal Junction",
+    "time_arrival": "00:10:53",
+    "time_departure": "00:05:53"
+  },
+  {
+    "id": 3,
+    "train_name": "Sialkot Express",
+    "train_no": "696775",
+    "start_from": "Sialkot Junction",
+    "to_destination": "Rawalpindi",
+    "time_arrival": "01:11:08",
+    "time_departure": "01:14:08"
+  },
+  {
+    "id": 4,
+    "train_name": "Pakistan Business Express",
+    "train_no": "774474",
+    "start_from": "Karachi Cantonment",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "01:20:41",
+    "time_departure": "01:23:41"
+  },
+  {
+    "id": 5,
+    "train_name": "Hazara Express",
+    "train_no": "34789",
+    "start_from": "Karachi City",
+    "to_destination": "Havelian",
+    "time_arrival": "01:34:40",
+    "time_departure": "01:37:40"
+  },
+  {
+    "id": 6,
+    "train_name": "Chenab Express",
+    "train_no": "244094",
+    "start_from": "Sargodha Junction",
+    "to_destination": "Lala Musa Junction",
+    "time_arrival": "01:58:28",
+    "time_departure": "02:01:28"
+  },
+  {
+    "id": 7,
+    "train_name": "Balochistan Express",
+    "train_no": "491005",
+    "start_from": "Quetta",
+    "to_destination": "Karachi City",
+    "time_arrival": "02:19:33",
+    "time_departure": "02:22:33"
+  },
+  {
+    "id": 8,
+    "train_name": "Subak Kharam Express",
+    "train_no": "717091",
+    "start_from": "Lahore Junction",
+    "to_destination": "Rawalpindi",
+    "time_arrival": "02:19:53",
+    "time_departure": "02:14:53"
+  },
+  {
+    "id": 9,
+    "train_name": "Lasani Express",
+    "train_no": "250486",
+    "start_from": "Lahore Junction",
+    "to_destination": "Sialkot Junction",
+    "time_arrival": "02:35:03",
+    "time_departure": "02:30:03"
+  },
+  {
+    "id": 10,
+    "train_name": "Rawal Express",
+    "train_no": "177505",
+    "start_from": "Lahore",
+    "to_destination": "Rawalpindi",
+    "time_arrival": "02:49:42",
+    "time_departure": "02:52:42"
+  },
+  {
+    "id": 11,
+    "train_name": "Buraq Express",
+    "train_no": "655243",
+    "start_from": "Karachi City",
+    "to_destination": "Rawalpindi",
+    "time_arrival": "03:15:24",
+    "time_departure": "03:18:24"
+  },
+  {
+    "id": 12,
+    "train_name": "Shah Shamas Express",
+    "train_no": "568481",
+    "start_from": "Multan Cantonment",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "03:50:15",
+    "time_departure": "03:53:15"
+  },
+  {
+    "id": 13,
+    "train_name": "Babu Passenger",
+    "train_no": "168671",
+    "start_from": "Lahore Junction",
+    "to_destination": "Wazirabad Junction",
+    "time_arrival": "04:16:51",
+    "time_departure": "04:11:51"
+  },
+  {
+    "id": 14,
+    "train_name": "Noor Shah Mixed",
+    "train_no": "836804",
+    "start_from": "Faisalabad",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "04:25:45",
+    "time_departure": "04:28:45"
+  },
+  {
+    "id": 15,
+    "train_name": "Mouj Darya Express",
+    "train_no": "957800",
+    "start_from": "Narowal Junction",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "04:46:01",
+    "time_departure": "04:49:01"
+  },
+  {
+    "id": 16,
+    "train_name": "Nishter Express",
+    "train_no": "515024",
+    "start_from": "Multan Cantonment",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "04:55:40",
+    "time_departure": "04:58:40"
+  },
+  {
+    "id": 17,
+    "train_name": "Shah Hussain Express",
+    "train_no": "479438",
+    "start_from": "Karachi Cantonment",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "05:39:38",
+    "time_departure": "05:42:38"
+  },
+  {
+    "id": 18,
+    "train_name": "Ravi Express",
+    "train_no": "161345",
+    "start_from": "Lahore Junction",
+    "to_destination": "Sialkot Junction",
+    "time_arrival": "05:53:39",
+    "time_departure": "05:48:39"
+  },
+  {
+    "id": 19,
+    "train_name": "Akbar Express",
+    "train_no": "471687",
+    "start_from": "Quetta",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "06:01:33",
+    "time_departure": "06:04:33"
+  },
+  {
+    "id": 20,
+    "train_name": "Jaffar Express",
+    "train_no": "877898",
+    "start_from": "Peshawar",
+    "to_destination": "Quetta",
+    "time_arrival": "06:27:31",
+    "time_departure": "06:30:31"
+  },
+  {
+    "id": 21,
+    "train_name": "Waris Shah Fast",
+    "train_no": "542041",
+    "start_from": "Lahore Junction",
+    "to_destination": "Shorkot Cantonment Junction",
+    "time_arrival": "06:49:02",
+    "time_departure": "06:44:02"
+  },
+  {
+    "id": 22,
+    "train_name": "Subak Raftar Express",
+    "train_no": "816886",
+    "start_from": "Lahore Junction",
+    "to_destination": "Islamabad",
+    "time_arrival": "07:25:25",
+    "time_departure": "07:20:25"
+  },
+  {
+    "id": 23,
+    "train_name": "Marala Passenger",
+    "train_no": "274098",
+    "start_from": "Wazirabad Junction",
+    "to_destination": "Narowal Junction",
+    "time_arrival": "07:26:52",
+    "time_departure": "07:29:52"
+  },
+  {
+    "id": 24,
+    "train_name": "Shah Sarwar Express",
+    "train_no": "740351",
+    "start_from": "Sialkot Junction",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "07:34:10",
+    "time_departure": "07:37:10"
+  },
+  {
+    "id": 25,
+    "train_name": "Karachi Express",
+    "train_no": "92152",
+    "start_from": "Karachi City",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "08:00:30",
+    "time_departure": "08:03:30"
+  },
+  {
+    "id": 26,
+    "train_name": "Samjhauta Express",
+    "train_no": "468951",
+    "start_from": "Lahore",
+    "to_destination": "Wagah",
+    "time_arrival": "08:29:42",
+    "time_departure": "08:32:42"
+  },
+  {
+    "id": 27,
+    "train_name": "Karakoram Express",
+    "train_no": "514719",
+    "start_from": "Karachi City",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "08:57:46",
+    "time_departure": "09:00:46"
+  },
+  {
+    "id": 28,
+    "train_name": "Faiz Ahmed Faiz Express",
+    "train_no": "57409",
+    "start_from": "Lahore Junction",
+    "to_destination": "Narowal Junction",
+    "time_arrival": "09:22:16",
+    "time_departure": "09:17:16"
+  },
+  {
+    "id": 29,
+    "train_name": "Pakpattan Express",
+    "train_no": "757162",
+    "start_from": "Pakpattan",
+    "to_destination": "Samasata",
+    "time_arrival": "09:28:48",
+    "time_departure": "09:31:48"
+  },
+  {
+    "id": 30,
+    "train_name": "Niazi Express",
+    "train_no": "15943",
+    "start_from": "Mari Indus",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "09:34:05",
+    "time_departure": "09:37:05"
+  },
+  {
+    "id": 31,
+    "train_name": "Ghouri Express",
+    "train_no": "446959",
+    "start_from": "Lahore Junction",
+    "to_destination": "Faisalabad",
+    "time_arrival": "09:35:11",
+    "time_departure": "09:30:11"
+  },
+  {
+    "id": 32,
+    "train_name": "Fareed Express",
+    "train_no": "353158",
+    "start_from": "Karachi City",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "09:40:29",
+    "time_departure": "09:43:29"
+  },
+  {
+    "id": 33,
+    "train_name": "Mixed Passenger",
+    "train_no": "485306",
+    "start_from": "Multan Cantonment",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "10:20:55",
+    "time_departure": "10:23:55"
+  },
+  {
+    "id": 34,
+    "train_name": "Margalla Express",
+    "train_no": "932836",
+    "start_from": "Lahore Junction",
+    "to_destination": "Rawalpindi",
+    "time_arrival": "10:24:53",
+    "time_departure": "10:19:53"
+  },
+  {
+    "id": 35,
+    "train_name": "Tezrao Express",
+    "train_no": "58990",
+    "start_from": "Karachi Cantonment",
+    "to_destination": "Peshawar Cantonment",
+    "time_arrival": "10:26:26",
+    "time_departure": "10:29:26"
+  },
+  {
+    "id": 36,
+    "train_name": "Lala Musa Express",
+    "train_no": "80962",
+    "start_from": "Lala Musa Junction",
+    "to_destination": "Sargodha Junction",
+    "time_arrival": "11:08:22",
+    "time_departure": "11:11:22"
+  },
+  {
+    "id": 37,
+    "train_name": "Mari Indus Express",
+    "train_no": "732576",
+    "start_from": "Mari Indus",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "12:22:11",
+    "time_departure": "12:25:11"
+  },
+  {
+    "id": 38,
+    "train_name": "Khushhal Khan Khattak Express",
+    "train_no": "417748",
+    "start_from": "Karachi City",
+    "to_destination": "Peshawar Cantonment",
+    "time_arrival": "12:29:20",
+    "time_departure": "12:32:20"
+  },
+  {
+    "id": 39,
+    "train_name": "Zahedan Mixed Passenger",
+    "train_no": "969986",
+    "start_from": "Quetta",
+    "to_destination": "Zahedan",
+    "time_arrival": "12:41:17",
+    "time_departure": "12:44:17"
+  },
+  {
+    "id": 40,
+    "train_name": "Mashriq-Maghreb Express",
+    "train_no": "917809",
+    "start_from": "Koh-e-Taftan",
+    "to_destination": "Chittagong",
+    "time_arrival": "13:02:53",
+    "time_departure": "13:05:53"
+  },
+  {
+    "id": 41,
+    "train_name": "Sukkur Express",
+    "train_no": "93860",
+    "start_from": "Karachi City",
+    "to_destination": "Jacobabad Junction",
+    "time_arrival": "13:09:02",
+    "time_departure": "13:12:02"
+  },
+  {
+    "id": 42,
+    "train_name": "Pakistan Express",
+    "train_no": "228769",
+    "start_from": "Karachi Cantonment",
+    "to_destination": "Rawalpindi",
+    "time_arrival": "13:26:19",
+    "time_departure": "13:29:19"
+  },
+  {
+    "id": 43,
+    "train_name": "Koh I Noor Passenger",
+    "train_no": "624436",
+    "start_from": "Lahore Junction",
+    "to_destination": "Narowal Junction",
+    "time_arrival": "13:38:25",
+    "time_departure": "13:33:25"
+  },
+  {
+    "id": 44,
+    "train_name": "Abaseen Express",
+    "train_no": "489394",
+    "start_from": "Multan Cantonment",
+    "to_destination": "Quetta",
+    "time_arrival": "13:47:34",
+    "time_departure": "13:50:34"
+  },
+  {
+    "id": 45,
+    "train_name": "Hashim Shah Passenger",
+    "train_no": "470478",
+    "start_from": "Narowal Junction",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "14:00:13",
+    "time_departure": "14:03:13"
+  },
+  {
+    "id": 46,
+    "train_name": "Sir Syed Express",
+    "train_no": "828303",
+    "start_from": "Karachi Cantonment",
+    "to_destination": "Rawalpindi",
+    "time_arrival": "14:13:17",
+    "time_departure": "14:16:17"
+  },
+  {
+    "id": 47,
+    "train_name": "Karana Passenger",
+    "train_no": "268791",
+    "start_from": "Lala Musa Junction",
+    "to_destination": "Sargodha Junction",
+    "time_arrival": "14:14:37",
+    "time_departure": "14:17:37"
+  },
+  {
+    "id": 48,
+    "train_name": "Dachi Fast",
+    "train_no": "109420",
+    "start_from": "Faisalabad",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "14:51:21",
+    "time_departure": "14:54:21"
+  },
+  {
+    "id": 49,
+    "train_name": "Chotiari Mixed",
+    "train_no": "391746",
+    "start_from": "Mirpur Khas",
+    "to_destination": "Kotri Junction Railway Station",
+    "time_arrival": "14:56:06",
+    "time_departure": "14:59:06"
+  },
+  {
+    "id": 50,
+    "train_name": "Kohat Express",
+    "train_no": "424499",
+    "start_from": "Rawalpindi",
+    "to_destination": "Kohat",
+    "time_arrival": "14:58:47",
+    "time_departure": "15:01:47"
+  },
+  {
+    "id": 51,
+    "train_name": "Multan Express",
+    "train_no": "573332",
+    "start_from": "Multan Cantonment",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "15:23:05",
+    "time_departure": "15:26:05"
+  },
+  {
+    "id": 52,
+    "train_name": "Musa Pak Express",
+    "train_no": "766249",
+    "start_from": "Multan Cantonment",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "15:27:37",
+    "time_departure": "15:30:37"
+  },
+  {
+    "id": 53,
+    "train_name": "Shaheen Passenger",
+    "train_no": "115196",
+    "start_from": "Wazirabad Junction",
+    "to_destination": "Sialkot Junction",
+    "time_arrival": "16:01:48",
+    "time_departure": "16:04:48"
+  },
+  {
+    "id": 54,
+    "train_name": "Shah Latif Bhattai Express",
+    "train_no": "913193",
+    "start_from": "Dhabeji",
+    "to_destination": "Mirpur Khas",
+    "time_arrival": "16:39:43",
+    "time_departure": "16:42:43"
+  },
+  {
+    "id": 55,
+    "train_name": "Faisal Express",
+    "train_no": "926160",
+    "start_from": "Lahore Junction",
+    "to_destination": "Faisalabad",
+    "time_arrival": "16:52:39",
+    "time_departure": "16:47:39"
+  },
+  {
+    "id": 56,
+    "train_name": "Rohi Fast Passenger",
+    "train_no": "268971",
+    "start_from": "Khanpur",
+    "to_destination": "Sukkur",
+    "time_arrival": "17:14:57",
+    "time_departure": "17:17:57"
+  },
+  {
+    "id": 57,
+    "train_name": "Badar Express",
+    "train_no": "962398",
+    "start_from": "Lahore Junction",
+    "to_destination": "Faisalabad",
+    "time_arrival": "18:05:44",
+    "time_departure": "18:00:44"
+  },
+  {
+    "id": 58,
+    "train_name": "Meher Express",
+    "train_no": "95157",
+    "start_from": "Multan Cantonment",
+    "to_destination": "Rawalpindi",
+    "time_arrival": "18:13:36",
+    "time_departure": "18:16:36"
+  },
+  {
+    "id": 59,
+    "train_name": "Awam Express",
+    "train_no": "410878",
+    "start_from": "Karachi City",
+    "to_destination": "Peshawar Cantonment",
+    "time_arrival": "18:42:40",
+    "time_departure": "18:45:40"
+  },
+  {
+    "id": 60,
+    "train_name": "Rehman Baba Express",
+    "train_no": "283220",
+    "start_from": "Peshawar Cantonment",
+    "to_destination": "Karachi Cantonment",
+    "time_arrival": "18:42:41",
+    "time_departure": "18:45:41"
+  },
+  {
+    "id": 61,
+    "train_name": "Saman Sarkar Express",
+    "train_no": "964340",
+    "start_from": "Hyderabad",
+    "to_destination": "Mirpur Khas",
+    "time_arrival": "18:46:58",
+    "time_departure": "18:49:58"
+  },
+  {
+    "id": 62,
+    "train_name": "Sultan Bahu Express",
+    "train_no": "450389",
+    "start_from": "Shorkot Cantonment Junction",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "18:57:55",
+    "time_departure": "19:00:55"
+  },
+  {
+    "id": 63,
+    "train_name": "Thal Express",
+    "train_no": "266358",
+    "start_from": "Multan Cantonment",
+    "to_destination": "Rawalpindi",
+    "time_arrival": "19:49:08",
+    "time_departure": "19:52:08"
+  },
+  {
+    "id": 64,
+    "train_name": "Multan Mixed",
+    "train_no": "602242",
+    "start_from": "Mari Indus",
+    "to_destination": "Multan Cantonment",
+    "time_arrival": "19:53:09",
+    "time_departure": "19:56:09"
+  },
+  {
+    "id": 65,
+    "train_name": "Rawalpindi Express",
+    "train_no": "52071",
+    "start_from": "Lahore",
+    "to_destination": "Rawalpindi",
+    "time_arrival": "19:53:50",
+    "time_departure": "19:56:50"
+  },
+  {
+    "id": 66,
+    "train_name": "Kundian Pessenger",
+    "train_no": "374405",
+    "start_from": "Kundian Junction",
+    "to_destination": "Sargodha Junction",
+    "time_arrival": "20:03:50",
+    "time_departure": "20:06:50"
+  },
+  {
+    "id": 67,
+    "train_name": "Tipu Sultan Express",
+    "train_no": "45077",
+    "start_from": "Faisalabad",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "20:05:19",
+    "time_departure": "20:08:19"
+  },
+  {
+    "id": 68,
+    "train_name": "Khush Khuram Passenger",
+    "train_no": "931357",
+    "start_from": "Narowal Junction",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "20:28:12",
+    "time_departure": "20:31:12"
+  },
+  {
+    "id": 69,
+    "train_name": "Mehran Express",
+    "train_no": "739978",
+    "start_from": "Karachi City",
+    "to_destination": "Mirpur Khas",
+    "time_arrival": "20:35:09",
+    "time_departure": "20:38:09"
+  },
+  {
+    "id": 70,
+    "train_name": "Tezgam Express",
+    "train_no": "9943",
+    "start_from": "Karachi Cantonment",
+    "to_destination": "Rawalpindi",
+    "time_arrival": "20:48:36",
+    "time_departure": "20:51:36"
+  },
+  {
+    "id": 71,
+    "train_name": "Okara Passenger",
+    "train_no": "394475",
+    "start_from": "Okara",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "20:51:01",
+    "time_departure": "20:54:01"
+  },
+  {
+    "id": 72,
+    "train_name": "Kasur Mixed",
+    "train_no": "339679",
+    "start_from": "Lahore Junction",
+    "to_destination": "Pakpattan",
+    "time_arrival": "21:59:13",
+    "time_departure": "21:54:13"
+  },
+  {
+    "id": 73,
+    "train_name": "Chiltan Express",
+    "train_no": "343897",
+    "start_from": "Faisalabad",
+    "to_destination": "Quetta",
+    "time_arrival": "22:18:29",
+    "time_departure": "22:21:29"
+  },
+  {
+    "id": 74,
+    "train_name": "Hyderabad Express",
+    "train_no": "832608",
+    "start_from": "Hyderabad Junction",
+    "to_destination": "Mirpur Khas",
+    "time_arrival": "22:30:06",
+    "time_departure": "22:33:06"
+  },
+  {
+    "id": 75,
+    "train_name": "Sargodha Express",
+    "train_no": "537518",
+    "start_from": "Sargodha Junction",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "22:48:21",
+    "time_departure": "22:51:21"
+  },
+  {
+    "id": 76,
+    "train_name": "Marvi Passenger",
+    "train_no": "805962",
+    "start_from": "Mirpur Khas",
+    "to_destination": "Khokhrapar",
+    "time_arrival": "23:07:53",
+    "time_departure": "23:10:53"
+  },
+  {
+    "id": 77,
+    "train_name": "Narowal Passenger",
+    "train_no": "821233",
+    "start_from": "Narowal Junction",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "23:16:03",
+    "time_departure": "23:19:03"
+  },
+  {
+    "id": 78,
+    "train_name": "Islamabad Express",
+    "train_no": "108400",
+    "start_from": "Lahore Junction",
+    "to_destination": "Islamabad",
+    "time_arrival": "23:17:14",
+    "time_departure": "23:12:14"
+  },
+  {
+    "id": 79,
+    "train_name": "Sindh Express",
+    "train_no": "789531",
+    "start_from": "Karachi Cantonment",
+    "to_destination": "Sukkur",
+    "time_arrival": "23:23:36",
+    "time_departure": "23:26:36"
+  },
+  {
+    "id": 80,
+    "train_name": "Shalimar Express",
+    "train_no": "118593",
+    "start_from": "Karachi Cantonment",
+    "to_destination": "Lahore Junction",
+    "time_arrival": "23:31:16",
+    "time_departure": "23:34:16"
+  },
+  {
+    "id": 81,
+    "train_name": "Qalander Express",
+    "train_no": "632953",
+    "start_from": "Larkana Junction",
+    "to_destination": "Karachi Cantonment",
+    "time_arrival": "23:32:34",
+    "time_departure": "23:35:34"
+  }
+]
